@@ -1,0 +1,11 @@
+# Site settings
+title: An Example of a site
+github_username: stevenlubar
+description: >
+  This is a practice site to demo GitHub Pages.
+ 
+url: "https://library.brown.edu/"
+
+# Build settings
+markdown: kramdown
+theme: minima
